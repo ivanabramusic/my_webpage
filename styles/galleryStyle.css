@@ -1,0 +1,30 @@
+.pictures{
+    margin: 0.5em;
+    padding-bottom: 1.5em;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    
+}
+
+main img{
+    width: 20em;
+    height: 20em;
+    border-style: double;
+}
+
+.pictures div{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.pictures p{
+    font-size: 1.2em;
+    
+}
+
+
